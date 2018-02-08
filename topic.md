@@ -1,4 +1,4 @@
-# The VR Realm
+ # The VR Realm
 
 ---
 
@@ -34,3 +34,6 @@ near or farsightedness, or feeling carsick or seasick kind of illness, it could 
   
 #### Below is the link to website I used to reference the information I gathered and presented before you.
 https://www.androidauthority.com/virtual-reality-work-702049/
+
+#### To go back to the home page copy and paste the link below
+https://pratl.github.io
