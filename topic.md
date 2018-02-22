@@ -36,4 +36,4 @@ near or farsightedness, or feeling carsick or seasick kind of illness, it could 
 https://www.androidauthority.com/virtual-reality-work-702049/
 
 #### To go back to the home page copy and paste the link below
-https://pratl.github.io
+[index](index)
